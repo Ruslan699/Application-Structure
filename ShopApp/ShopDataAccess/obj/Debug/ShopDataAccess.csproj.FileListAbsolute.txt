@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ShopApp\ShopDataAccess\obj\Debug\ShopDataAccess.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ShopApp\ShopDataAccess\obj\Debug\ShopDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ShopApp\ShopDataAccess\bin\Debug\ShopDataAccess.dll.config
+C:\Users\User\source\repos\ShopApp\ShopDataAccess\bin\Debug\ShopDataAccess.dll
+C:\Users\User\source\repos\ShopApp\ShopDataAccess\bin\Debug\ShopDataAccess.pdb
+C:\Users\User\source\repos\ShopApp\ShopDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\ShopApp\ShopDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\ShopApp\ShopDataAccess\bin\Debug\Shop.Entities.dll
+C:\Users\User\source\repos\ShopApp\ShopDataAccess\bin\Debug\Shop.Entities.pdb
+C:\Users\User\source\repos\ShopApp\ShopDataAccess\bin\Debug\Shop.Entities.dll.config
+C:\Users\User\source\repos\ShopApp\ShopDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\ShopApp\ShopDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\ShopApp\ShopDataAccess\obj\Debug\ShopDataAccess.csproj.CopyComplete
+C:\Users\User\source\repos\ShopApp\ShopDataAccess\obj\Debug\ShopDataAccess.dll
+C:\Users\User\source\repos\ShopApp\ShopDataAccess\obj\Debug\ShopDataAccess.pdb

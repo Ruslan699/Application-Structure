@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ShopApp\Shop.Entities\bin\Debug\Shop.Entities.dll.config
+C:\Users\User\source\repos\ShopApp\Shop.Entities\bin\Debug\Shop.Entities.dll
+C:\Users\User\source\repos\ShopApp\Shop.Entities\bin\Debug\Shop.Entities.pdb
+C:\Users\User\source\repos\ShopApp\Shop.Entities\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\ShopApp\Shop.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\ShopApp\Shop.Entities\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\ShopApp\Shop.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\ShopApp\Shop.Entities\obj\Debug\Shop.Entities.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ShopApp\Shop.Entities\obj\Debug\Shop.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ShopApp\Shop.Entities\obj\Debug\Shop.Entities.csproj.CopyComplete
+C:\Users\User\source\repos\ShopApp\Shop.Entities\obj\Debug\Shop.Entities.dll
+C:\Users\User\source\repos\ShopApp\Shop.Entities\obj\Debug\Shop.Entities.pdb
